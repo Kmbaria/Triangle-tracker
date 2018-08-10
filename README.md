@@ -1,4 +1,3 @@
-#Triangle-tracker
 #  Triangle-tracker App
 #### { Triangle-tracker}, {8/7/2018}
 #### By Kmbaria
@@ -16,6 +15,7 @@ No bugs at the moment.
 Behaviour: The Triangle-Tracker App  give the answers to your questions alll answers about Triangles
 so for instance if you put an Input figure like 5,3,6 as the Length, Width, and Height.
 The Output or the Answer will be scalene.
+so if its an equilateral it will tell you and if its the other types it will also tell.
 etc...
 
 
