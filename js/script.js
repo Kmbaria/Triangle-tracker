@@ -4,7 +4,7 @@ var width=parseFloat(prompt("side width"));
 var height=parseFloat(prompt("side height"));
 
 if(length===width && length===height && width===height){
-alert("equilateral tringle");
+alert("equilateral triangle");
 }
 else if(length===width || length===height || width===height){
 alert("isoceles triangle");
@@ -16,4 +16,3 @@ else{
 alert("scalene");
 }
 }
-gettriangle();
