@@ -4,7 +4,7 @@
 ## Description 
 its a site made by me I mean myself where by if you click the checkbox then you fill in your length width and height it will answer you which type of triangle is that. Now that's the{ Triangle-tracker}.
 ## Setup/Installation Requirements
-run the link from github.
+run this link:https://kmbaria.github.io/triangleTracker/
 ## Technologies Used
 HTML</br>
 Javascript</br>
