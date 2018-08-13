@@ -51,6 +51,8 @@ Input : sideA = a sideB = "" sideC = 90
 
 OUTPUT EXAMPLE: TRY AGAIN. EMPTY FIELDS OR WRONG INPUTS
 
+## LIVE PAGE
+https://kmbaria.github.io/triangleTracker/
 
 ### License
 jojik.Gk (c) {2018} **{Pixels tech company}**
